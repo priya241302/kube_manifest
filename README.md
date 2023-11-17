@@ -28,12 +28,3 @@
 
 Following this pipeline ensures that our application code is thoroughly tested, built into Docker images, and deployed with the updated manifest using the GitOps approach.
 
-**This project contains Three GitHub repositories**
-
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
-
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
-
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
-
-🙏 Thank you so much for reading.
